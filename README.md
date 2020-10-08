@@ -270,5 +270,6 @@ All these libraries are statically linked.
 * [Ryuan Choi](https://github.com/bunhere)
 * [Tony Able](https://github.com/TonyAble)
 * [Xiao Liang](https://github.com/yxliang01)
+* [Hung H.Ming](https://github.com/hms5232)
 
 Please update this list you have contributed OpenCC.
